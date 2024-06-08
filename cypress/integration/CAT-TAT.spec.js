@@ -3,7 +3,7 @@
 describe('Central de Atendimento ao Cliente TAT', function() {
     
     beforeEach(() => {
-        cy.visit('./src/index.html')            
+        cy.visit('./src/indx.html')            
       })
           
     it('verifica o título da aplicação', function() {
